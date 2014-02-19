@@ -25,4 +25,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/mannih/Plack-Middleware-CookieMonster.git
-version: 0.01
+version: 0.02
